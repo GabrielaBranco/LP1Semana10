@@ -6,7 +6,7 @@ namespace GuessTheNumber
     {
         private static void Main()
         {
-            View view = new View();
+            IView view = new View();
             Model model = new Model();
             Controller controller = new Controller(view, model);
             controller.GameLoop();

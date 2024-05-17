@@ -2,7 +2,7 @@ using System;
 
 namespace GuessTheNumber
 {
-    public class View
+    public class View : IView
     {
         public void Welcome()
         {

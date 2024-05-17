@@ -3,9 +3,9 @@
 namespace GuessTheNumber
 {
     public class Controller
-    {   private View view;
+    {   private IView view;
         private Model model;
-        public Controller(View view, Model model)
+        public Controller(IView view, Model model)
         {
             this.view = view;
             this.model = model;
