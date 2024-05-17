@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{D4E8762F-5D3E-4B48-B411-25DA5F55DCEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManager4", "PlayerManager4\PlayerManager4.csproj", "{AECB9EF7-21B9-457A-BA81-4F6F48D318AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D4E8762F-5D3E-4B48-B411-25DA5F55DCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E8762F-5D3E-4B48-B411-25DA5F55DCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E8762F-5D3E-4B48-B411-25DA5F55DCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECB9EF7-21B9-457A-BA81-4F6F48D318AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECB9EF7-21B9-457A-BA81-4F6F48D318AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECB9EF7-21B9-457A-BA81-4F6F48D318AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECB9EF7-21B9-457A-BA81-4F6F48D318AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
